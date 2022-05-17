@@ -17,7 +17,7 @@ onine store mobile application using flutter and flask.
 ![image](https://user-images.githubusercontent.com/76243256/168907896-e954d503-8510-4f31-aeb9-ae78aa5a96f6.png)
 ![image](https://user-images.githubusercontent.com/76243256/168908116-23df8e4b-7c0a-4190-ad4a-19457a0300eb.png)
 
-# Online-StoreOrders and customer cart
+# Orders and customer cart
 
 ![image](https://user-images.githubusercontent.com/76243256/168908201-5e62b549-3d84-4d43-8336-cb2f6070a96a.png)
 ![image](https://user-images.githubusercontent.com/76243256/168908263-97be62f9-e0a4-4a0d-b715-0593c67a0b35.png)
