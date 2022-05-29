@@ -1,5 +1,5 @@
 # Online-Store
-onine store mobile application using flutter and flask.
+online store mobile application using flutter and flask.
 # customer view
 
 ![image](https://user-images.githubusercontent.com/76243256/168907557-208f51e8-65e5-42c7-827f-c428e2655164.png)
